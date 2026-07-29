@@ -5,7 +5,7 @@ I'm a 15-year-old developer currently working my way through Harvard's **CS50x**
 ---
 
 ### 🚀 What I'm Learning
-- **Languages:** C, HTML/CSS, Python
+- **Languages:** C, HTML/CSS, javascript, Python
 - **Core Concepts:** Memory management, pointer arithmetic, file I/O, algorithm optimization, and debugging with Valgrind.
 
 ---
