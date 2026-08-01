@@ -5,8 +5,8 @@ I'm a 15-year-old developer currently working my way through Harvard's **CS50x**
 ---
 
 ### 🚀 What I'm Learning
-- **Languages:** C, HTML/CSS, javascript, Python
-- **Core Concepts:** Memory management, pointer arithmetic, file I/O, algorithm optimization, and debugging with Valgrind.
+- **Languages:** C, HTML/CSS, JavaScript, Python
+- **Core Concepts:** Memory management, pointer arithmetic, hash tables, file I/O, algorithm optimization, and debugging with Valgrind.
 
 ---
 
@@ -16,7 +16,7 @@ I'm a 15-year-old developer currently working my way through Harvard's **CS50x**
 - [x] Week 2: Arrays (Readability, Caesar)
 - [x] Week 3: Algorithms (Plurality, Runoff, Tideman)
 - [x] Week 4: Memory (Filter, Volume, Recover)
-- [x] Week 5: Data Structures
+- [x] Week 5: Data Structures (Speller)
 - [ ] Week 6: Python
 - [ ] Week 7: SQL
 - [ ] Week 8: HTML, CSS, JavaScript
@@ -26,4 +26,5 @@ I'm a 15-year-old developer currently working my way through Harvard's **CS50x**
 ---
 
 ### 🛠️ Key Milestones & Solved Challenges
-- **Spell Checker (`speller.c`):** Built a custom hash table and memory-managed linked lists in C to parse and check text against a dictionary with zero memory leaks.
+- **Spell Checker (`speller.c`):** Built a high-performance hash table and memory-managed linked lists in C to parse text against dynamic dictionaries with zero memory leaks.
+- **Image Recovery (`recover.c`):** Implemented raw byte inspection to recover deleted JPEGs from card images, handling 512-byte block buffers and memory pointers.
