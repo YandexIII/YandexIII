@@ -5,8 +5,8 @@ I'm a 15-year-old developer currently working my way through Harvard's **CS50x**
 ---
 
 ### 🚀 What I'm Learning
-- **Languages:** C, HTML/CSS, JavaScript, Python
-- **Core Concepts:** Memory management, pointer arithmetic, hash tables, file I/O, algorithm optimization, and debugging with Valgrind.
+- **Languages:** C, Python, HTML/CSS, JavaScript
+- **Core Concepts:** Memory management, pointer arithmetic, hash tables, file I/O, algorithm optimization, text/CSV parsing, and automated pattern matching.
 
 ---
 
@@ -17,7 +17,7 @@ I'm a 15-year-old developer currently working my way through Harvard's **CS50x**
 - [x] Week 3: Algorithms (Plurality, Runoff, Tideman)
 - [x] Week 4: Memory (Filter, Volume, Recover)
 - [x] Week 5: Data Structures (Speller)
-- [ ] Week 6: Python
+- [x] Week 6: Python (Mario, Credit, Readability, DNA)
 - [ ] Week 7: SQL
 - [ ] Week 8: HTML, CSS, JavaScript
 - [ ] Week 9: Flask
@@ -26,5 +26,6 @@ I'm a 15-year-old developer currently working my way through Harvard's **CS50x**
 ---
 
 ### 🛠️ Key Milestones & Solved Challenges
-- **Spell Checker (`speller.c`):** Built a high-performance hash table and memory-managed linked lists in C to parse text against dynamic dictionaries with zero memory leaks.
+- **DNA Profiling (`dna.py`):** Built an automated forensics program in Python that parses raw DNA text files, dynamically tracks Short Tandem Repeat (STR) sequences, and matches profile counts against CSV databases using `csv.DictReader`.
+- **Spell Checker (`speller.c`):** Built a custom memory-managed hash table using a 3-letter prefix hashing strategy and linked lists in C to parse text against dynamic dictionaries with zero memory leaks.
 - **Image Recovery (`recover.c`):** Implemented raw byte inspection to recover deleted JPEGs from card images, handling 512-byte block buffers and memory pointers.
