@@ -6,8 +6,7 @@ I'm a 15-year-old developer currently working my way through Harvard's **CS50x**
 
 ### 🚀 What I'm Learning
 - **Languages:** C, Python, SQL, HTML/CSS, JavaScript
-- **Core Concepts:** Memory management, pointer arithmetic, hash tables, relational databases, CTEs & multi-table JOINs, file I/O, algorithm optimization, text/CSV parsing, and automated pattern matching.
-
+- **Core Concepts:** Memory management, pointer arithmetic, hash tables, relational databases, AI & LLM fundamentals, file I/O, algorithm optimization, and pattern matching.
 ---
 
 ### 📚 CS50 Progress Tracker
@@ -19,7 +18,7 @@ I'm a 15-year-old developer currently working my way through Harvard's **CS50x**
 - [x] Week 5: Data Structures (Speller)
 - [x] Week 6: Python (Mario, Credit, Readability, DNA)
 - [x] Week 7: SQL
-- [ ] **Lecture:** Artificial Intelligence (*ML & LLM Fundamentals*)
+- [x] **Lecture:** Artificial Intelligence (*ML & LLM Fundamentals*)
 - [ ] Week 8: HTML, CSS, JavaScript
 - [ ] Week 9: Flask
 - [ ] Week 10: Cybersecurity / Final Project
