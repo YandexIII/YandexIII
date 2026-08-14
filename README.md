@@ -10,7 +10,7 @@ I'm a 15-year-old developer currently working my way through Harvard's **CS50x**
 ---
 
 ### 📚 CS50 Progress Tracker
-- [x] Week 0: Scratch
+- [x] Week 0: Scratch (3D Raycaster) (https://scratch.mit.edu/projects/1368791763/)
 - [x] Week 1: C (Mario, Credit)
 - [x] Week 2: Arrays (Readability, Caesar)
 - [x] Week 3: Algorithms (Plurality, Runoff, Tideman)
@@ -26,6 +26,7 @@ I'm a 15-year-old developer currently working my way through Harvard's **CS50x**
 ---
 
 ### 🛠️ Key Milestones & Solved Challenges
+- **Retro 3D Raycaster Engine (`Scratch`)** Overengineered the Week 0 visual programming assignment by building a pseudo-3D engine using 2D array maps, DDA raycasting math, trigonometry, and custom vector hitboxes for collision detection.
 - **SQL Forensics (`fiftyville.db`)** Solved a complex database mystery by querying 8 interconnected tables using CTEs, nested subqueries, exact time-window filtering, and relational joins to identify a thief, location, and accomplice.
 - **DNA Profiling (`dna.py`):** Built an automated forensics program in Python that parses raw DNA text files, dynamically tracks Short Tandem Repeat (STR) sequences, and matches profile counts against CSV databases using `csv.DictReader`.
 - **Spell Checker (`speller.c`):** Built a custom memory-managed hash table using a 3-letter prefix hashing strategy and linked lists in C to parse text against dynamic dictionaries with zero memory leaks.
