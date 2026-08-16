@@ -19,13 +19,14 @@ I'm a 15-year-old developer currently working my way through Harvard's **CS50x**
 - [x] Week 6: Python (Mario, Credit, Readability, DNA)
 - [x] Week 7: SQL
 - [x] **Lecture:** Artificial Intelligence (*ML & LLM Fundamentals*)
-- [ ] Week 8: HTML, CSS, JavaScript
+- [x] Week 8: HTML, CSS, JavaScript
 - [ ] Week 9: Flask
 - [ ] Week 10: Cybersecurity / Final Project
 
 ---
 
 ### 🛠️ Key Milestones & Solved Challenges
+-**Responsive Multi-Page Portfolio (HTML5 / Bootstrap 5 / JS) Built a clean 4-page personal developer portal (`index`, `about`, `projects`, `contact`). Implemented an interactive dark/light theme toggle using raw JavaScript and persistent state across pages via `localStorage`.
 - **Retro 3D Raycaster Engine (`Scratch`)** Overengineered the Week 0 visual programming assignment by building a pseudo-3D engine using 2D array maps, DDA raycasting math, trigonometry, and custom vector hitboxes for collision detection.
 - **SQL Forensics (`fiftyville.db`)** Solved a complex database mystery by querying 8 interconnected tables using CTEs, nested subqueries, exact time-window filtering, and relational joins to identify a thief, location, and accomplice.
 - **DNA Profiling (`dna.py`):** Built an automated forensics program in Python that parses raw DNA text files, dynamically tracks Short Tandem Repeat (STR) sequences, and matches profile counts against CSV databases using `csv.DictReader`.
