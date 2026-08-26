@@ -39,7 +39,7 @@ I'm a 15-year-old developer specializing in software development, low-level memo
 
 ### 📜 Certifications
 
-![CS50x Certificate](assets/cs50_certificate.png)
+![CS50x Certificate](assets/cs50x.png)
 *HarvardX CS50x: Introduction to Computer Science*
 
 ---
